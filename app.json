@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "ai-routine-app",
-    "slug": "ai-routine-app",
-    "scheme": "ai-routine-app",
+    "name": "ROOTINE",
+    "slug": "rootine",
+    "scheme": "rootine",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
